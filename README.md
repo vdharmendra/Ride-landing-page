@@ -25,7 +25,7 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
-<a href="https://www.behance.net/gallery/210772773/Shoes-Studio" target="_blank" >
+<a href="https://www.behance.net/gallery/210927027/Ride-Alone" target="_blank" >
 <img src="./img/ride-along-landing-page.png" alt="shoes-studio-landing-page" width="575px" />
 </a>
 
